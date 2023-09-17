@@ -38,7 +38,7 @@ categories:
   max_depth:              # Maximum depth of categories displayed in the widget (null for unlimited)
 
 # Personal info
-avatar: 
+avatar: /assets/avatar.png
 author: 涼宮ハルヒ
 subtitle: 好啊，来罢（喜
 links:
