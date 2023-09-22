@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Re：让世界变得更热闹的凉宫春日团 | S.S.R.
-subtitle: 'Sekai wo ooini moriageru tame no Suzumiya Haruhi no Reunion.'
+title: Re：让世界变得更热闹的秋元真宵团 | Project Oneko.
+subtitle: ''
 description: ''
 keywords:
-author: 涼宮ハルヒ
+author: 秋元 真宵
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://oneko.yukiverse.icu
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
