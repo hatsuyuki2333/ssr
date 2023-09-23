@@ -64,5 +64,11 @@ gauges_analytics: false
 google_analytics: false #UA-xxxxxx
 baidu_analytics: false # ddxxxxxxxxxxxxxxxxx In the https://hm.baidu.com/hm.js? Afterwards
 
+# CloudMusic
+widgetType:  iframe ## It can be embed or iframe
+widgetSize:  small ## It can be small or large
+autoPlay:  0 ## It can be 0 to set autoPlay disable or 1 to set autoPlay enable
+id: 1445869910
+
 #Copyright
 copyright: <strong>欢迎来到Oneko社群~ 谨向你们致以热烈的问候！</strong><br>

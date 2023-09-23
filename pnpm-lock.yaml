@@ -32,6 +32,9 @@ dependencies:
   hexo-server:
     specifier: ^3.0.0
     version: 3.0.0
+  hexo-tag-cloudmusic:
+    specifier: ^1.2.3
+    version: 1.2.3
   hexo-theme-landscape:
     specifier: ^1.0.0
     version: 1.0.0
@@ -750,6 +753,10 @@ packages:
       serve-static: 1.15.0
     transitivePeerDependencies:
       - supports-color
+    dev: false
+
+  /hexo-tag-cloudmusic@1.2.3:
+    resolution: {integrity: sha512-pbPx8fURjkGxdyFAyv/EjaSEBuy8OFcwLmHF2uOJsWTskQ2fiyqiprWpyIqucs5TKXmuqJMjwH5DaHXSy1bScg==}
     dev: false
 
   /hexo-theme-landscape@1.0.0:
